@@ -1,0 +1,1 @@
+ini pelajaran pertama github yaitu membuat repositori dan file lalu commit
